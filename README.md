@@ -1,4 +1,4 @@
-# React Application - Robofriends
+# React Application - Robofriends. – https://jvalentinavelez.github.io/robofriends-react/
 
 Application that uses some React basics, such as components, props, state and children. 
 
